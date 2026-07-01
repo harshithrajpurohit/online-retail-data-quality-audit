@@ -38,25 +38,5 @@ Dataset Link:
 Python
 Pandas
 Jupyter Notebook
-
-# Project Workflow
-Load Dataset
-      ↓
-Inspect Data
-      ↓
-Missing Values
-      ↓
-Duplicate Detection
-      ↓
-Cancelled Orders
-      ↓
-Returns Analysis
-      ↓
-Revenue Calculation
-      ↓
-Clean Dataset
-      ↓
-Business Insights
-      ↓
 Recommendations
 
